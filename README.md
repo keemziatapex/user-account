@@ -9,15 +9,17 @@ This tutorial outlines the process of creating users in Entra ID.<br />
 - Windows 11
 <h2>Users Created</h2>
 <p>
+<br />  
+  
 <img width="1724" height="862" alt="image" src="https://github.com/userattachments/assets/e5f6f8d6-6980-4159-8399-5e6db404a780" />
 </p>
 <p>
-Created a new user named Chris Walker.
+Created a new user named Khairat Abijo.
 </p>
 <br />
-<p>
-<img width="1718" height="847" alt="image" src="https://github.com/userattachments/assets/52c6eb54-5718-4855-ae1b-6eda7e2581f3" />
+
+![image alt](https://github.com/keemziatapex/user-account/blob/9988402031d8bd6572fac151716e143ecd6155c9/Screenshot%202026-06-17%20180124.png)
 </p>
 <p>
-Created a new user named Jordan Lee.
+Created a new user named Fausat Bolaji.
 </p>
