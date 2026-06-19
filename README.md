@@ -1,13 +1,24 @@
-Creating Users in Microsoft Azure's Entra ID <p align="center">
+# Creating Users in Microsoft Azure's Entra ID <p align="center">
+
 ![image alt](https://github.com/keemziatapex/user-account/blob/c3eb1393497c3d2913d64e9421230db3bee9c3cf/Screenshot%202026-06-18%20220308.png)
 </p>
+
 <h1>Creating User's in Our Lab Environment (Azure)</h1>
 This tutorial outlines the process of creating users in Entra ID.<br />
+
+
 <h2>Environments and Technologies Used</h2>
+
 - Microsoft Azure Entra ID
+
+
 <h2>Operating Systems Used </h2>
+
 - Windows 11
+
+
 <h2>Users Created</h2>
+
 <p>
 <br />  
   
