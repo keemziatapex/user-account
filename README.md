@@ -11,7 +11,7 @@ This tutorial outlines the process of creating users in Entra ID.<br />
 <p>
 <br />  
   
-<img width="1724" height="862" alt="image" src="https://github.com/userattachments/assets/e5f6f8d6-6980-4159-8399-5e6db404a780" />
+![image alt](https://github.com/keemziatapex/user-account/blob/d27cb4bbba1b58f0dbaa5d6dc1bc462eff6bc536/Screenshot%202026-06-17%20192716.png)
 </p>
 <p>
 Created a new user named Khairat Abijo.
