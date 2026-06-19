@@ -4,7 +4,7 @@
 </p>
 
 <h1>Creating User's in Our Lab Environment (Azure)</h1>
-This tutorial outlines the process of creating users in Entra ID.<br />
+This project outlines the process of creating users in Entra ID.<br />
 
 
 <h2>Environments and Technologies Used</h2>
